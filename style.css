@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.hero {
+    background-image: url('https://awsimages.detik.net.id/community/media/visual/2022/03/21/youtuber-dede-inoen-ngumpet-di-kolong-rel-kereta_169.jpeg'); /* Ganti URL ini dengan URL gambar latar belakang yang valid */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+.hero h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #ab1616;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    text-align: left;
+}
+
+.hero p {
+    font-size: 24px;
+    color: #3923dc;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.resume {
+    font-size: 28px; 
+    color: #1a1818; 
+    font-weight: bold; 
+}
+
+.about {
+    background-color: #201e1e;
+    padding: 20px;
+}
+
+.about h2 {
+    font-size: 28px;
+    color: #f9f5f5;
+}
+
+.about p {
+    font-size: 16px;
+    color: #f7f4f4;
+    line-height: 1.5; 
+}
+.keseharian {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex; 
+    align-items: center; 
+
+.more-info {
+    margin-left: 1200px;
+}
+.Matkul Kesukaan {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.more-info {
+    margin-left: 1200px;
+}
